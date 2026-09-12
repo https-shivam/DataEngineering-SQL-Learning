@@ -58,6 +58,9 @@ SQL/
 - 08_ROW_NUMBER.sql
 - 09_RANK_DENSE_RANK.sql
 - 10_LAG.sql
+- 11_LEAD.sql
+- 12_CASE_WHEN.sql
+- 13_NULL_Handling.sql
 
 ## Future Topics
 
